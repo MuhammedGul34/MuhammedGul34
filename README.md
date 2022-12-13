@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Swift and Swift UI
 - 💞️ I’m looking to collaborate on Application Development.
-- 📫 How to reach me muhammedgu.mail@gmail.com
+- 📫 How to reach me muhammedgul.mail@gmail.com
 
 <!---
 MuhammedGul34/MuhammedGul34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
