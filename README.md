@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammedGul34
+- 👋 Hi, I’m @Muhammed Gul
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Swift and Swift UI
 - 💞️ I’m looking to collaborate on Application Development.
